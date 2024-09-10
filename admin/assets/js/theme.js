@@ -1,0 +1,1 @@
+$('body').toggleClass(localStorage.getItem("body"));
